@@ -109,12 +109,14 @@ Conjunto de proyectos orientados a una solución hotelera, compuesto por una apl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azaelprzm&show_icons=true&locale=es&theme=transparent&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub de Azaelprzm" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaelprzm&layout=compact&locale=es&theme=transparent&hide_border=true" alt="Lenguajes más utilizados por Azaelprzm" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azaelprzm&theme=github_dark" alt="Resumen de actividad de Azaelprzm" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azaelprzm&theme=github_dark" alt="Estadísticas de GitHub de Azaelprzm" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azaelprzm&theme=github_dark" alt="Repositorios por lenguaje de Azaelprzm" />
 
 </div>
 
-> Las tarjetas se actualizan automáticamente según la actividad pública del perfil.
+> Las tarjetas se actualizan automáticamente a partir de la actividad pública del perfil.
 
 ## 📬 Contacto
 
